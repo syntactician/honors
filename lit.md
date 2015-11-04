@@ -1,5 +1,5 @@
 # Possible literature for Honors Thesis:
-Executing Hortons: Racial Crime in the 1988 Presidential Campaign
+
 ### From Settle:
 * [James Druckman](http://faculty.wcas.northwestern.edu/~jnd260/cv.pdf) on framing
 * Tali Mendleberg on racial priming
@@ -21,5 +21,5 @@ Executing Hortons: Racial Crime in the 1988 Presidential Campaign
 
 ### From Charity Hudley:
 
-### From Eli Clare
+### From Eli Clare:
 
